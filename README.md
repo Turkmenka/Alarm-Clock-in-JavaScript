@@ -16,4 +16,4 @@ A simple and responsive Alarm Clock built using **HTML, CSS, and JavaScript**.
 - JavaScript (ES6)
 
 ## 📸 Screenshot
-![Home Screen](images/screenshot1.png)
+![Home Screen](screenshoot.jpg)
